@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Homework6</string>
+    <string name="user">User</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="remove">Remove</string>
+    <string name="age">Age</string>
+    <string name="success">User added successfully!</string>
+    <string name="exists">User already exists!</string>
+    <string name="updated">User updated successfully!</string>
+    <string name="not_found">User not found!</string>
+    <string name="removed">User removed!</string>
+    <string name="check_fields">Please check all fields!</string>
+</resources>
